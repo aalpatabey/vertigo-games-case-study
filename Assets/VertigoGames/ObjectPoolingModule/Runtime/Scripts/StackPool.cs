@@ -5,7 +5,7 @@ namespace VertigoGames.ObjectPoolingModule.Runtime.Scripts
 {
     public class StackPool<T> : IPool<T> where T : IPoolable
     {
-        private Stack<T> _poolables = new Stack<T>();
+        private readonly Stack<T> _poolables = new Stack<T>();
         
         private readonly Func<T> _factory;
 
