@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36b961ab0b3641fa985e27d018b9d345, type: 3}
+  m_Name: Spin Step Data 3
+  m_EditorClassIdentifier: 
+  rewards:
+  - reward:
+      rewardTypeData: {fileID: 11400000, guid: 2d57cefab2c3b4d2b91c8ea2acf561ae, type: 2}
+      amount: 3
+    possibility: 1
+  - reward:
+      rewardTypeData: {fileID: 11400000, guid: 418ba7d22c64c48bb89e252ed03be523, type: 2}
+      amount: 1
+    possibility: 1
+  - reward:
+      rewardTypeData: {fileID: 11400000, guid: 91512bed4b49b496aa7f3be3ff31acdc, type: 2}
+      amount: 1
+    possibility: 1
+  - reward:
+      rewardTypeData: {fileID: 11400000, guid: 7227c1fd1f7cd457ca28164c358da81f, type: 2}
+      amount: 10
+    possibility: 1
+  - reward:
+      rewardTypeData: {fileID: 11400000, guid: d4514c13dd7ed45cb8cbd475080006fe, type: 2}
+      amount: 5
+    possibility: 1
+  - reward:
+      rewardTypeData: {fileID: 11400000, guid: c622421500db84612bfc3c2572db266d, type: 2}
+      amount: 1
+    possibility: 1
+  - reward:
+      rewardTypeData: {fileID: 0}
+      amount: 1
+    possibility: 1
+  - reward:
+      rewardTypeData: {fileID: 11400000, guid: fd1c3fed1bf744ace8bf393338d693ec, type: 2}
+      amount: 10
+    possibility: 1
